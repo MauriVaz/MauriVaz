@@ -10,12 +10,7 @@ You can contact me at this email mvazquezcostal@gmail.com or on my LinkedIn prof
 If you can see my works you can see in this [Link](https://portafolio-mauriciosantiago.vercel.app/)
 ## My stack
 
-<style>
-    li{
-        list-style:none
-    }
-</style>
-<ul>
+<ul style="list-style:none">
 <li>
 <img src="./public/javascript.png"  width="100" height="100">
 <img src="./public/typescript.png"  width="100" height="100">
