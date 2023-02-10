@@ -10,23 +10,16 @@ You can contact me at this email mvazquezcostal@gmail.com or on my LinkedIn prof
 If you can see my works you can see in this [Link](https://portafolio-mauriciosantiago.vercel.app/)
 ## My stack
 
-<ul style="list-style:none">
-<li>
 <img src="./public/javascript.png"  width="100" height="100">
 <img src="./public/typescript.png"  width="100" height="100">
-<img src="./public/css.png"  width="100" height="100"></li>
-<li>
+<img src="./public/css.png"  width="100" height="100">
 <img src="./public/html.png"  width="100" height="100">
 <img src="./public/tailwind.jpeg"  width="100" height="100">
-<img src="./public/docker.png"  width="100" height="100"></li>
-<li>
+<img src="./public/docker.png"  width="100" height="100">
 <img src="./public/next.png"  width="100" height="100">
 <img src="./public/react.png"  width="100" height="100">
-<img src="./public/node.png"  width="100" height="100"></li>
-<li>
+<img src="./public/node.png"  width="100" height="100">
 <img src="./public/express.png"  width="100" height="100">
 <img src="./public/mongo.png"  width="100" height="100">
 <img src="./public/fastify.png"  width="100" height="100">
-</li>
-</ul>
 
