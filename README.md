@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/mauricio-santiago-vazquez-costal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mauricio-santiago-v%c3%a1zquez-costal-3099a315b/" height="30" width="40" /></a>
 </p>
 
-<h2>I'm a junior Fullstacl developerm my stack is Mer, actually I working with this technologies</h2>
+<h2>I'm a fullstack developer my stack is Mer, actually I working with this technologies</h2>
 <h4>Currently I have basic knowledge in C, C++, Java and I would like to take my first steps with Python</h4>
 <h4>You can see my portfolio with this <a href="https://portafolio-mauriciosantiago.vercel.app/">link</a></h4>
 <h3 align="left">Languages and Tools:</h3>
